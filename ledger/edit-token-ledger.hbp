@@ -1,0 +1,5 @@
+EDITLEDGERHDR|schema=asolaria.edit_token_ledger.v1|created_utc=2026-07-08T10:01:03Z|repo=asolaria-trilateral-host8-kernel-ladder-20260708|json=0
+EDITTOKEN|seq=1|action=create_spec_packet|prev=GENESIS|body_sha256=f99f02c29a1cc6bb960a5345f58aa5d1cd1c04d15104d1b5d180ed16f93bab47|json=0
+EDITTOKEN|seq=2|action=create_index|prev=seq1|body_sha256=d6f5be806dfdb33f7b5b781bd04bdf4f055970fe8b1d03be1b4895131e37a0a6|json=0
+EDITTOKEN|seq=3|action=create_human_spec|prev=seq2|body_sha256=09051abee9c8efba2ce74b2dc34fd5cd4fd66e6e1cfd6ed316b4a4deef15d4db|json=0
+EDITTOKEN|seq=4|action=create_readme|prev=seq3|body_sha256=d7894709d19836a2c4da584af9c45019b4d9bf71668477e99ef81a39e186fc48|json=0
